@@ -12,3 +12,4 @@ mat3 <- matrix(data = 1:15, nrow = 5)
 #rata
 # como tarea 
 getwd()
+#ya lo subi
