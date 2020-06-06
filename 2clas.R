@@ -9,3 +9,4 @@ mat3 <- matrix(data = 1:15, nrow = 5)
 
 
 #din(mat3) nos da un vector 
+#rata
