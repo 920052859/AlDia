@@ -15,3 +15,8 @@ help("runif")
 vec6 <- runif(5,min = 4,max = 7)
 help("rchisq")
 help("seq")
+  seq(8,100) # secuencia
+  help("rep")
+  rep(9,9) # replicar
+  getwd()
+  setwd("C:/Users/DANIPZA/Desktop/pylinR/Rclass")
